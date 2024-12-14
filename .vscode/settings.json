@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/8fac3e7d-f02a-47f2-b631-a81572361aac/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/deepakpandey69",
+    "appService.deploySubpath": "server"
+}
